@@ -13,8 +13,12 @@ footer {
 }
 
 .navbar-nav {
-    margin-left: 30px;
-    margin-right: auto;
+    /* margin-left: 30px;
+    margin-right: auto; */
+}
+
+nav div {
+    margin-left: auto;
 }
 
 .nav-link {
