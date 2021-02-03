@@ -27,7 +27,7 @@
         <div class="row container" id="content">
             <?php 
                 if ( isset($_GET["content"])) {
-                include($_GET["content"] . ".php");
+                include($_GET["content"] . "");
                 } else {
                 include("./home.php");
                 }          
