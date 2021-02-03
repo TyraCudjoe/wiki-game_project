@@ -5,20 +5,23 @@
     }
     
     .navbar {
-        background-color: rgb(38, 38, 38);
+        background-color: rgb(71, 118, 30);
     }
     
     footer {
-        background-color: rgb(38, 38, 38);
+        background-color: rgb(75, 75, 75);
     }
     
     .navbar-nav {
         margin-left: auto;
+        padding: 10px;
     }
     
     .nav-link {
         color: white;
         text-decoration: none;
+        font-family: 'Noto Sans JP', sans-serif;
+        font-size: 18px;
         transition: 0.4s;
     }
     
@@ -30,4 +33,12 @@
     .homeimg {
         width: 100%;
         height: auto;
+    }
+    
+    .display-6 {
+        text-align: center;
+    }
+    
+    .card {
+        margin-top: 20px;
     }
