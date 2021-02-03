@@ -1,4 +1,10 @@
 #gtavImg {
     width: 12%;
     height: auto;
+    /* margin-right: -600px; */
+}
+
+.navbar-nav {
+    margin-left: 30px;
+    margin-right: auto;
 }
