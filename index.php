@@ -15,7 +15,7 @@
   <link rel="icon" type="image/ico" sizes="16x16" href="./favicon.ico">
   <link href="https://fonts.googleapis.com/css?family=Handlee&display=swap" rel="stylesheet">
 
-  <title>Wiki GTAV</title>
+  <title>Wiki GTA V</title>
 </head>
 
 <body>
