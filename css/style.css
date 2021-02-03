@@ -1,33 +1,33 @@
     #gtavImg {
-    width: 75px;
-    height: auto;
-    /* margin-right: -600px; */
-}
-
-.navbar {
-    background-color: rgb(38, 38, 38);
-}
-
-footer {
-    background-color: rgb(38, 38, 38);
-}
-
-.navbar-nav {
-    margin-left: auto;
-}
-
-.nav-link {
-    color: white;
-    text-decoration: none;
-    transition: 0.4s;
-}
-
-.nav-link:hover {
-    color: white;
-    letter-spacing: 3px;
-}
-
-.homeimg {
-    /* width: 100%;
-    height: auto;
-} */
+        width: 75px;
+        height: auto;
+        /* margin-right: -600px; */
+    }
+    
+    .navbar {
+        background-color: rgb(38, 38, 38);
+    }
+    
+    footer {
+        background-color: rgb(38, 38, 38);
+    }
+    
+    .navbar-nav {
+        margin-left: auto;
+    }
+    
+    .nav-link {
+        color: white;
+        text-decoration: none;
+        transition: 0.4s;
+    }
+    
+    .nav-link:hover {
+        color: white;
+        letter-spacing: 3px;
+    }
+    
+    .homeimg {
+        width: 100%;
+        height: auto;
+    }
