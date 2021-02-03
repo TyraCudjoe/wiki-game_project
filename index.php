@@ -18,28 +18,23 @@
 
 <body>
   <main class="container">
-    <?php include("./header.php") ?>
+        <div>
+            <?php include("./navbar.php") ?>
+        </div>
+        
+        <div class="row" id="content">
+            <?php 
+                if ( isset($_GET["content"])) {
+                include($_GET["content"] . ".php");
+                } else {
+                include("./home.php");
+                }          
+            ?>
+        </div>
 
-    </div>
-    <div class="row bg-light">
-      <div class="col-12" id="navigation">
-        <?php include("./navigation.php") ?>
-      </div>
-    </div>
-    <div class="row" id="content">
-      <?php 
-        if ( isset($_GET["content"])) {
-          include($_GET["content"] . ".php");
-        } else {
-          include("./home.php");
-        }          
-      ?>
-    </div>
-    </div>
-    </div>
-    <div class="row" id="footer">
-      <?php include("./footer.php") ?>
-    </div>
+        <div class="row" id="footer">
+            <?php include("./footer.php") ?>
+        </div>
   </main>
 
   <!-- Optional JavaScript -->
