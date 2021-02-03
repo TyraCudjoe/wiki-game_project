@@ -4,7 +4,19 @@
     /* margin-right: -600px; */
 }
 
+.navbar {
+    background-color: rgb(38, 38, 38);
+}
+
+footer {
+    background-color: rgb(38, 38, 38);
+}
+
 .navbar-nav {
     margin-left: 30px;
     margin-right: auto;
+}
+
+.nav-link {
+    color: white;
 }
