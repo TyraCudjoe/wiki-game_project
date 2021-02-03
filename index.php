@@ -24,7 +24,7 @@
             <?php include("./navbar.php") ?>
         </div>
         
-        <div class="row container" id="content">
+        <div id="content">
             <?php 
                 if ( isset($_GET["content"])) {
                 include($_GET["content"] . "");
