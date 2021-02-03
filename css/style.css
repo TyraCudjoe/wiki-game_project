@@ -1,5 +1,5 @@
 #gtavImg {
-    width: 12%;
+    width: 75px;
     height: auto;
     /* margin-right: -600px; */
 }
@@ -13,14 +13,16 @@ footer {
 }
 
 .navbar-nav {
-    /* margin-left: 30px;
-    margin-right: auto; */
-}
-
-nav div {
     margin-left: auto;
 }
 
 .nav-link {
     color: white;
+    text-decoration: none;
+    transition: 0.4s;
+}
+
+.nav-link:hover {
+    color: white;
+    letter-spacing: 3px;
 }
