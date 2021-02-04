@@ -70,6 +70,9 @@
     
     .btnMicheal {
         background-color: #61B5CB;
+        font-family: 'Oxygen', sans-serif;
+        width: 100%;
+        font-weight: 600;
         transition: 0.4s;
     }
     
@@ -79,6 +82,9 @@
     
     .btnFranklin {
         background-color: #47761E;
+        font-family: 'Oxygen', sans-serif;
+        width: 100%;
+        font-weight: 600;
         transition: 0.4s;
     }
     
@@ -88,6 +94,9 @@
     
     .btnTrevor {
         background-color: #F09E71;
+        font-family: 'Oxygen', sans-serif;
+        width: 100%;
+        font-weight: 600;
         transition: 0.4s;
     }
     
