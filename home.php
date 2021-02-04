@@ -11,11 +11,14 @@
                     <div class="card-body">
                         <!-- text voor onder het plaatje -->
                         <h1 class="display-6">Welcome to Wiki GTA V</h1>
+                        <p class="welkomPar">This is the website for those who love GTAV, who care to know more about this game, who are looking for a specific answeer and for those who are here just for fun.
+                            <br> This website is dedicated to GTAV and everything you could possibly get to know about it. From an explanation about the plot to an explanation about storymode. You name it, we have everything you need to know about GTAV.
+                        </p>
                     </div>
                 </div>
             </section>
             <section class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
-                <div class="card">
+                <div class="card cardHover">
                     <a href="./index.php?content=micheal.php">
                         <img class="micheal" src="./img/GTA_V_Artwork_Michael_Money-540-360.jpg" alt="">
                     </a>
@@ -30,7 +33,7 @@
                 </div>
             </section>
             <section class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
-                <div class="card">
+                <div class="card cardHover">
                     <a href="./index.php?content=franklin.php">
                         <img class="franklin" src="./img/be26e-15928919383209-800.jpg" alt="">
                     </a>
@@ -45,7 +48,7 @@
                 </div>
             </section>
             <section class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
-                <div class="card">
+                <div class="card cardHover">
                     <a href="./index.php?content=trevor.php">
                         <img class="trevor" src="./img/trevor.jpg" alt="">
                     </a>

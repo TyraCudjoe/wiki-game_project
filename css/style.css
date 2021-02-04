@@ -118,3 +118,15 @@
         width: 100%;
         height: auto;
     }
+    
+    .welkomPar {
+        text-align: center;
+    }
+    
+    .cardHover {
+        transition: 0.4s;
+    }
+    
+    .cardHover:hover {
+        margin-top: -1px;
+    }
