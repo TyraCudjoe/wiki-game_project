@@ -1,5 +1,5 @@
     body {
-        background-color: rgb(247, 247, 247);
+        background-color: rgb(196, 196, 196);
     }
     
     #gtavImg {
@@ -23,7 +23,7 @@
     
     .nav-link {
         color: white;
-        text-decoration: none;
+        /* text-decoration: none; */
         font-family: 'Noto Sans JP', sans-serif;
         font-size: 18px;
         transition: 0.4s;
@@ -45,7 +45,6 @@
     .display-6 {
         text-align: center;
         color: white;
-        font-family: 'Assistant', sans-serif;
     }
     
     .card {
