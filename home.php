@@ -16,6 +16,9 @@
             </section>
             <section class="col-4 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                 <div class="card">
+                    <a href="./index.php?content=micheal.php">
+                        <img class="micheal" src="./img/GTA_V_Artwork_Michael_Money-540-360.jpg" alt="">
+                    </a>
                     <div class="card-body">
                         <!-- text voor onder het plaatje -->
                         <h2 class="">Micheal</h2>
@@ -25,6 +28,9 @@
             </section>
             <section class="col-4 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                 <div class="card">
+                    <a href="./index.php?content=franklin.php">
+                        <img class="franklin" src="./img/be26e-15928919383209-800.jpg" alt="">
+                    </a>
                     <div class="card-body">
                         <!-- text voor onder het plaatje -->
                         <h2 class="">Franklin</h2>
@@ -34,6 +40,9 @@
             </section>
             <section class="col-4 col-sm-12 col-md-12 col-lg-4 col-xl-4">
                 <div class="card">
+                    <a href="./index.php?content=trevor.php">
+                        <img class="trevor" src="./img/trevor.jpg" alt="">
+                    </a>
                     <div class="card-body">
                         <!-- text voor onder het plaatje -->
                         <h2 class="">Trevor</h2>

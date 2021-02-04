@@ -34,6 +34,10 @@
         letter-spacing: 3px;
     }
     
+    li.nav-item.dropdown:hover ul {
+        display: block;
+    }
+    
     .homeimg {
         width: 100%;
         height: auto;
@@ -89,4 +93,19 @@
     
     .btnTrevor:hover {
         background-color: #c27d58;
+    }
+    
+    .micheaal {
+        width: 100%;
+        height: auto;
+    }
+    
+    .franklin {
+        width: 100%;
+        height: auto;
+    }
+    
+    .trevor {
+        width: 100%;
+        height: auto;
     }
