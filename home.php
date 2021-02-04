@@ -64,6 +64,23 @@
                     </a>
                 </div>
             </section>
+            <section class="col-12 col-sm-12 col-md-12 col-lg-4 col-xl-4">
+                <div class="card cardHover">
+                    <a href="./index.php?content=trevor.php">
+                        <img class="trevor" src="./img/trevor.jpg" alt="">
+                    </a>
+                    <div class="card-body">
+                        <!-- text voor onder het plaatje -->
+                        <h2 class="">Trevor</h2>
+                        <p>Trevor Philips is a fictional character and one of the three playable protagonists, alongside Michael De Santa and Franklin Clinton, of Grand Theft Auto V, the seventh main title in the Grand Theft Auto series developed by Rockstar
+                            Games.
+                        </p>
+                    </div>
+                    <a href="./index.php?content=trevor.php">
+                        <button type="button" class="btn btnTrevor">Click here for more.</button>
+                    </a>
+                </div>
+            </section>
         </div>
     </div>
 </div>
