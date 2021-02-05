@@ -23,7 +23,7 @@
 <div class="container info">
     <div class="card" id="infoCard">
         <div class="card-body">
-            <h1 class="infoTitle"><?=$row['name']?></h1>
+            <h1 class="infoTitle"><?=$row['name']?> 
             <hr>
             <p><?=$row['info']?></p>
         </div>
