@@ -5,19 +5,18 @@
         $data = htmlspecialchars($data);
         return $data;
     }
-?>
-<?php
-    include("./connectdb.php");
+    
+    // include("./connectdb.php");
 
-    $name = ($_POST["id"]);
-    $info = sanitize($_POST["info"]);
+    // $name = ($_POST["id"]);
+    // $info = sanitize($_POST["info"]);
 
-    $sql= "UPDATE `pages`
-            SET `info` = '$info',
+    // $sql= "UPDATE `pages`
+    //         SET `info` = '$info',
             
-            WHERE `users`.`name`= $name;";
+    //         WHERE `users`.`name`= $name;";
  
-    mysqli_query($conn, $sql);
-    header("Location: ./index.php?content=home");
+    // mysqli_query($conn, $sql);
+    // header("Location: ./index.php?content=home");
 
 ?>
