@@ -20,5 +20,12 @@
 
 ?>
 
-<h1><?=$row['name']?></h1>
-<p><?=$row['info']?></p>
+<div class="container info">
+    <div class="card">
+        <div class="card-body">
+            <h1><?=$row['name']?></h1>
+            <hr>
+            <p><?=$row['info']?></p>
+        </div>
+    </div>    
+</div>
