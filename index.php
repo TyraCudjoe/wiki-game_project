@@ -27,10 +27,10 @@
 <body>
     <main>
         <div>
-
+<!-- adds the navbar -->
             <?php include("./navbar.php") ?>
         </div>
-
+<!-- goes to the homepage if no page is listed or a perticular page if needed -->
         <div id="content">
             <?php 
                 if ( isset($_GET["content"])) {
@@ -40,7 +40,7 @@
                 }          
             ?>
         </div>
-
+<!-- adds the footer -->
         <div id="footer">
             <?php include("./footer.php") ?>
         </div>
@@ -57,7 +57,7 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
         integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
     </script>
-    <script src="./js/lol.js"></script>
+    <script src="./js/app.js"></script>
 </body>
 
 </html>

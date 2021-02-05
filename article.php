@@ -16,6 +16,7 @@
         
         $row = mysqli_fetch_assoc($result);
 
+<<<<<<< HEAD
         $records = "";
         while ($record = mysqli_fetch_all($result)) {
             $records .= "
@@ -25,6 +26,9 @@
         }
 
         //var_dump($row);
+=======
+        
+>>>>>>> 03c1d109aa35b194d9daca7fe91bd24f057f5760
 
     } else {
         echo 'doei';
@@ -37,7 +41,7 @@
             <h1 class="infoTitle"><?=$row['name']?> 
                 <?php echo $records ?>
             <hr>
-            <p><?=$row['info']?></p>
+            <h5><?=$row['info']?></h5>
         </div>
     </div>    
 </div>
