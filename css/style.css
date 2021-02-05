@@ -15,7 +15,7 @@
     footer {
         background-color: rgb(22, 22, 22);
         color: white;
-        text-align: center; 
+        text-align: center;
     }
     
     .navbar-nav {
@@ -131,4 +131,12 @@
     
     .cardHover:hover {
         margin-top: -1px;
+    }
+    
+    .infoTitle {
+        text-align: center;
+    }
+    
+    .infoCard {
+        background-color: white !important;
     }

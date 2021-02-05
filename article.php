@@ -21,9 +21,9 @@
 ?>
 
 <div class="container info">
-    <div class="card">
+    <div class="card" id="infoCard">
         <div class="card-body">
-            <h1><?=$row['name']?></h1>
+            <h1 class="infoTitle"><?=$row['name']?></h1>
             <hr>
             <p><?=$row['info']?></p>
         </div>
