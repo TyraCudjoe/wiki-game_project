@@ -18,7 +18,7 @@
                 <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
                     <li><a class="dropdown-item" href="./index.php?content=micheal.php">Micheal</a></li>
                     <li><a class="dropdown-item" href="./index.php?content=franklin.php">Franklin</a></li>
-                    <li><a class="dropdown-item" href="./index.php?content=trevor.php">Trevor</a></li>
+                    <li><a class="dropdown-item" href="./index.php?content=article.php&name=trevor">Trevor</a></li>
                 </ul>
             </li>
             <li class="nav-item">
