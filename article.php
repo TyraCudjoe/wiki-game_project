@@ -24,6 +24,9 @@
     <div class="card" id="infoCard">
         <div class="card-body">
             <h1 class="infoTitle"><?=$row['name']?> 
+            <a href='./index.php?content=update&id=". $record['name'] . "'>
+                 <img src='./img/b_edit.png' alt='pencil'>
+              </a>
             <hr>
             <p><?=$row['info']?></p>
         </div>
