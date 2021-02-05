@@ -1,5 +1,5 @@
 <!-- dit is de footer -->
-<footer class="container-fluid">
+<footer class="container-fluid fixed-bottom">
     <div class="row">
         <div class="col-4">
             <h3>Sitemap</h3>
