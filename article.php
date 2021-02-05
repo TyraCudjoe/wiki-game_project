@@ -12,7 +12,7 @@
 
         $row = mysqli_fetch_assoc($result);
 
-        //var_dump($row);
+        
 
     } else {
         echo 'doei';
@@ -28,7 +28,7 @@
                  <img src='./img/b_edit.png' alt='pencil'>
               </a>
             <hr>
-            <p><?=$row['info']?></p>
+            <h5><?=$row['info']?></h5>
         </div>
     </div>    
 </div>
